@@ -10,4 +10,4 @@
 
 本平台提供丰富多样的高清影视资源，覆盖最新热门内容和经典作品，确保流畅播放体验。通过智能推荐帮助用户快速找到喜爱的视频，满足观影需求。
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/but20250709/but12 ）</span>
